@@ -32,7 +32,7 @@ module.exports = {
         path: 'images',
       },
     },
-    { resolve: 'gatsby-source-instagram', options: { usernam: 'gatsbyjs' } },
+    { resolve: 'gatsby-source-instagram', options: { username: 'gatsbyjs' } },
     {
       resolve: 'gatsby-plugin-webpack-bundle-analyzer',
       options: {
